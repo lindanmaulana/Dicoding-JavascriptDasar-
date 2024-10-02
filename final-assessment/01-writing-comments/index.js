@@ -1,4 +1,4 @@
-/* Lindan Maulana */
+// lindan_maulana_PYea
 
 /* 
 Goal tahun ini

@@ -1,6 +1,6 @@
 import assert from "node:assert"
 import {test} from "node:test"
-import {sum} from "./index"
+import {sum} from "./index.js"
 
 test("Should add correcly", () => {
     const a = 1;
